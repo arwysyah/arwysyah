@@ -15,10 +15,11 @@
 
 I'm Arwy Syahputra Siregar, I'm a beginner 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
-- 🔭 I’m currently working with Javascript
-- 🌱 I’m currently learning Kotlin and Typescript
-
-- ⚡ Technologies: React, Node, React-Native
+- 🔭 I’m currently working with Javascript and learning how to performance and scaling the App Project
+- 🔭 I’m currently learning Kotlin and Typescript
+- 🔭 I'm currently learning about Ml5.js
+- 🔭 Interested with Tensorflow.js
+- ⚡ Technologies: React, Node, ML5, React-Native, Express, 
 
 <p align="center">
   <a href="https://github.com/arwysyah">
