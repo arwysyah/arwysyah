@@ -11,9 +11,9 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arwysyah)
 
 
-## Hi There 👋,
+## Hi There 👋
 
-I'm Arwy Syahputra Siregar, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+I'm Arwy Syahputra Siregar, I'm a beginner 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
 - 🔭 I’m currently working with Javascript
 - 🌱 I’m currently learning Kotlin and Typescript
