@@ -1,4 +1,4 @@
-# Arwy Syahputra Siregar (@arwywyah)
+# Arwy Syahputra Siregar (@arwysyah)
 
 [![Linkedin Badge](https://img.shields.io/badge/-arwysyahputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arwysyah/)](https://www.linkedin.com/in/arwysyah/)
 
