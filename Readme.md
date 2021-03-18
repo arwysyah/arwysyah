@@ -13,7 +13,7 @@
 
 ## Hi There 👋
 
-I'm Arwy Syahputra Siregar, I'm a beginner 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+I'm Arwy Syahputra Siregar, I'm a Software Engineer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
 - 🔭 I’m currently working with Javascript and learning how to performance and scaling the App Project
 - 🔭 I’m currently learning Typescript and Kotlin
