@@ -19,10 +19,10 @@ I'm Arwy Syahputra Siregar, I'm a Software Engineer 👨‍💻 who is passionat
 - 🔭 I’m currently working as Software Engineer with Typescript & Javascript and researching how to achieve better performance and  scalable Application.
 - 🔭 I'm open source enthusiast especially about React Native and Javascript
 - 🔭 I am interesting and experience about offline online technology such as CouchDB and RealmDB 
-- 🔭 I’m currently learning Python & Kotlin
+- 🔭 I’m currently learning  Kotlin
 - 🔭 I’m currently learning Machine Learning and Computer Graphic
 - 🔭 I'm currently learning about Ml5.js a bit for Mechine Learning based on Website 
-- 🔭 Interested with Tensorflow.js 
+
 - ⚡ Technologies: React, Node, ML5, React-Native, Express, Couch DB , Pouch DB, Graphql, Sql Lite.
 
 <p align="center">
