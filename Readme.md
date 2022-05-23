@@ -14,8 +14,9 @@
 ## Hi There 👋
 
 I'm Arwy Syahputra Siregar, I'm a Software Engineer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
-- 🔭 Currently i am working at [Smartfren](https://www.smartfren.com/) as Mobile Developer
-- 🔭 Ex Otomo Software Engineer Tech Lead
+- 🔭 Currently i am working at Polish Company
+- 🔭 Ex [Smartfren](https://www.smartfren.com/) as Mobile Developer
+-  🔭 Ex Otomo Software Engineer Tech Lead
 - 🔭 I’m currently working as Software Engineer with Typescript & Javascript and researching how to achieve better performance and  scalable Application.
 - 🔭 I'm open source enthusiast especially about React Native and Javascript
 - 🔭 I am interesting and experience about offline online technology such as CouchDB and RealmDB 
