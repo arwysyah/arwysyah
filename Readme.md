@@ -13,7 +13,7 @@
 
 ## Hi There 👋
 
-I'm Arwy Syahputra Siregar, I'm a Software Engineer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+I'm Arwy Syahputra Siregar, I'm an Indonesian Software Engineer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 - 🔭 Currently i am working at Polish Company
 - 🔭 Ex [Smartfren](https://www.smartfren.com/) as Mobile Developer
 -  🔭 Ex Otomo Software Engineer Tech Lead
