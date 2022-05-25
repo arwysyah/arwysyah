@@ -14,7 +14,7 @@
 ## Hi There 👋
 
 I'm Arwy Syahputra Siregar, I'm an Indonesian Software Engineer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
-- 🔭 Currently i am working at Polish Company
+- 🔭 Currently i am working at Polish Software Company
 - 🔭 Ex [Smartfren](https://www.smartfren.com/) as Mobile Developer
 -  🔭 Ex Otomo Software Engineer Tech Lead
 - 🔭 I’m currently working as Software Engineer with Typescript & Javascript and researching how to achieve better performance and  scalable Application.
