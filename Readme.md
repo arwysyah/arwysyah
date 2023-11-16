@@ -17,14 +17,10 @@ I'm Arwy Syahputra Siregar, I'm an Indonesian Software Engineer 👨‍💻 who 
 - 🔭 Currently i am working at Polish Software Company
 - 🔭 Ex [Smartfren](https://www.smartfren.com/) as Mobile Developer
 -  🔭 Ex Otomo Software Engineer Tech Lead
-- 🔭 I’m currently working as Software Engineer with Typescript & Javascript and researching how to achieve better performance and  scalable Application.
+- 🔭 I’m currently working as Software Engineer with Typescript,Javasctipt,Dart and c++ and researching how to achieve better performance and  scalable Application.
 - 🔭 I'm open source enthusiast especially about React Native and Javascript
 - 🔭 I am interesting and experience about offline online technology such as CouchDB and RealmDB 
-- 🔭 I’m currently learning  Kotlin
-- 🔭 I’m currently learning  Computer Graphic
-- 🔭 I'm currently learning about Ml5.js a bit for Mechine Learning based on Website 
-
-- ⚡ Technologies: React, Node, ML5, React-Native, Express, Couch DB , Pouch DB, Graphql, Sql Lite.
+- ⚡ Technologies: Flutter, Unity, C++, Dart, Node, ML5, React-Native, Express, Couch DB , Pouch DB, Graphql, Sql Lite.
 
 <p align="center">
   <a href="https://github.com/arwysyah">
