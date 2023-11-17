@@ -14,7 +14,9 @@
 ## Hi There 👋
 
 I'm Arwy Syahputra Siregar, I'm an Indonesian Software Engineer 👨‍💻 who is passionate about JavaScript ,Dart, C++ ,Android and its entire ecosystem.
-- 🔭 Currently i am working at Polish Software Company
+- 🔭 Currently i am working at Polish Software Company and Singaporean Company
+- 🔭 i am working With React Native, Flutter ,Unity and Kotlin android
+- 🔭 During my free time i am playing with C++ and Hacker Rank
 - 🔭 Ex [Smartfren](https://www.smartfren.com/) as Mobile Developer
 -  🔭 Ex Otomo Software Engineer Tech Lead
 - 🔭 I’m currently working as Software Engineer with Typescript,Javasctipt,Dart and c++ and researching how to achieve better performance and  scalable Application.
