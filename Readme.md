@@ -23,7 +23,7 @@ I'm Arwy Syahputra Siregar, I'm an Indonesian Software Engineer 👨‍💻 who 
 - 🔭 I'm open source enthusiast especially about React Native and Javascript
 - 🔭 I am interesting and experience about offline online technology such as CouchDB and RealmDB 
 - ⚡ Technologies: Flutter, Unity, C++, Dart, Node, ML5, React-Native, Express, Couch DB , Pouch DB, Graphql, Sql Lite.
-- ⚡ Here is my other github   [arwys](https://github.com/arwys) as Mobile Developer
+- ⚡ Here is my other github   [arwys](https://github.com/arwys)
 
 <p align="center">
   <a href="https://github.com/arwysyah">
