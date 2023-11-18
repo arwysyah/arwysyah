@@ -38,4 +38,5 @@ I'm Arwy Syahputra Siregar, I'm an Indonesian Software Engineer 👨‍💻 who 
 
 #
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=arwysyah&theme=blue-green)
+[![1](https://github-readme-stats.vercel.app/api/top-langs?username=arwysyah&hide=html,scss,stylus,blade,objective-c,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=blue-green&show_icons=true)](https://github.com/arwysyah)
+
