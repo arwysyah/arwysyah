@@ -25,17 +25,6 @@ I'm Arwy Syahputra Siregar, I'm an Indonesian Software Engineer 👨‍💻 who 
 - ⚡ Technologies: Flutter, Unity, C++, Dart, Node, ML5, React-Native, Express, Couch DB , Pouch DB, Graphql, Sql Lite.
 - ⚡ Here is my other github   [arwys](https://github.com/arwys)
 
-<p align="center">
-  <a href="https://github.com/arwysyah">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=arwysyah&show_icons=true&theme=dracula"
-    />
-  </a>
-  
-</p>
-
 #
 
 [![1](https://github-readme-stats.vercel.app/api/top-langs?username=arwysyah&hide=html,scss,stylus,blade,objective-c,jupyter%20notebook,python,css,shell,javascript,batchfile,ruby,starlark,dockerfile&theme=blue-green&show_icons=true)](https://github.com/arwysyah)
