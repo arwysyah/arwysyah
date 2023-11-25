@@ -26,6 +26,6 @@ I'm Arwy Syahputra Siregar, I'm an Indonesian Software Engineer 👨‍💻 who 
 - ⚡ Here is my other github   [arwys](https://github.com/arwys)
 
 #
-
+## My Most Programming Languages Beside Javascript 👋
 [![1](https://github-readme-stats.vercel.app/api/top-langs?username=arwysyah&hide=html,scss,stylus,blade,objective-c,jupyter%20notebook,python,css,shell,javascript,batchfile,ruby,starlark,dockerfile&theme=blue-green&show_icons=true)](https://github.com/arwysyah)
 
