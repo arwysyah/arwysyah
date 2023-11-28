@@ -1,4 +1,4 @@
-# Arwy Syahputra Siregar (@arwysyah)
+# Arwy Syahputra Siregar (@arwysyah) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-arwysyahputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arwysyah/)](https://www.linkedin.com/in/arwysyah/)
 
@@ -15,7 +15,7 @@
 
 I'm Arwy Syahputra Siregar, I'm an Indonesian Software Engineer 👨‍💻 who is passionate about JavaScript ,Dart, C++ ,Android and its entire ecosystem.
 - 🔭 Currently i am working at Poland Software Company and Singaporr Company
-- 🔭 I have one article that published in my Company blog [here](https://expans.io/2022/11/04/react-native-and-python-run-python-script-on-the-frontend-side/)) 
+- 🔭 I have one article that published in my Company blog [here](https://expans.io/2022/11/04/react-native-and-python-run-python-script-on-the-frontend-side/)
 - 🔭 i am working With React Native, Flutter ,Unity and Kotlin android
 - 🔭 During my free time i am playing with C++, LeetCode and Hacker Rank
 - 🔭 Ex [Smartfren](https://www.smartfren.com/) as Mobile Developer
