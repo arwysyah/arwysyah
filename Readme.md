@@ -17,7 +17,7 @@ I'm Arwy Syahputra Siregar, I'm an Software Engineer 👨‍💻
 
 
 ## Professional Journey:
-- 🔭 Current Role at Poland Software Company. 
+- 🔭 Current Role at [Poland Software Company](https://expans.io). 
 - 🔭 Actively contributing to company success.
 - 🔭 Published article on React Native and Python [here](https://expans.io/2022/11/04/react-native-and-python-run-python-script-on-the-frontend-side/).
 - 🔭 Simultaneous Engagement with a Singapore-based Company,
