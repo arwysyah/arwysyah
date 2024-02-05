@@ -1,11 +1,6 @@
 # Arwy Syahputra Siregar (@arwysyah) 
 
 
-  <a href="https://dev.to/arwysyah">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Arwy Syahputra Siregar's DEV Profile" height="50" width="50">
-
-</a>
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arwysyah)
 
