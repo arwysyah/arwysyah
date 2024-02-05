@@ -13,7 +13,7 @@
 
 ## Hi There 👋
 
-I'm Arwy Syahputra Siregar, I'm an Software Engineer 👨‍💻
+I'm Arwy Syahputra Siregar, I'm a Software Engineer 👨‍💻
 
 
 ## Professional Journey:
