@@ -1,7 +1,6 @@
 
 ## Professional Journey:
--  Current Role at [Poland Software Company](https://expans.
--  Simultaneous working with a Singapore Company 
+-  Current Role at [Expansio](https://expansio.pl)
 -  Published article [here](https://expans.io/2022/11/04/react-native-and-python-run-python-script-on-the-frontend-side/).
 
 
