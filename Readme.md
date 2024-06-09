@@ -7,5 +7,5 @@
 
 
 ## Languages Beside Javascript
-[![1](https://github-readme-stats.vercel.app/api/top-langs?username=arwysyah&hide=html,scss,stylus,blade,objective-c,jupyter%20notebook,css,shell,c#,javascript,batchfile,ruby,starlark,dockerfile&theme=blue-green&show_icons=true)](https://github.com/arwysyah)
+[![1](https://github-readme-stats.vercel.app/api/top-langs?username=arwysyah&hide=html,scss,stylus,blade,objective-c,jupyter%20notebook,css,shell,csharp,javascript,batchfile,ruby,starlark,dockerfile&theme=blue-green&show_icons=true)](https://github.com/arwysyah)
 
