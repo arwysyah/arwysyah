@@ -1,7 +1,7 @@
 <p><b><i><font color="green">Just a guy who loves programming and aims to become a real engineer. Though I'm not there yet, I'm learning to improve.</font></i></b></p>
 
 ## Professional Journey:
--  Current Role at [Expansio](https://expansio.pl)
+-  Current Role : Software Engineer [Expansio](https://expansio.pl), Software Engineer [Liveful](https://liveful.co/) ,Software Engineer Freelancer at [Playard](https://www.playard.id/)
 -  Published article [here](https://expans.io/2022/11/04/react-native-and-python-run-python-script-on-the-frontend-side/).
 -  Cloned [git](https://github.com/arwys).
 
