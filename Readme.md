@@ -3,6 +3,7 @@
 ## Professional Journey:
 -  Current Role : Software Engineer [Expansio](https://expansio.pl), [Liveful](https://liveful.co), Freelancer at [Playard](https://www.playard.id)
 -  Published article [here](https://expans.io/2022/11/04/react-native-and-python-run-python-script-on-the-frontend-side/).
+-  Developing SafeXId Organization.
 -  Cloned [git](https://github.com/arwys).
 -  Author of [Arcnodes](https://www.npmjs.com/package/arc-nodes) 
 
