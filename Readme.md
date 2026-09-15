@@ -6,7 +6,3 @@
 -  Cloned [git](https://github.com/arwys).
 -  Author of [Arcnodes](https://www.npmjs.com/package/arc-nodes) 
 
-## Languages Besides JavaScript
-
-[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arwysyah&theme=github_dark&exclude=html,scss,stylus,blade,objective-c,jupyter%20notebook,css,shell,csharp,javascript,batchfile,c%23,ruby,cmake,starlark,dockerfile)](https://github.com/arwysyah)
-
